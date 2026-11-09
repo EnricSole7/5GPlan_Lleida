@@ -1,0 +1,15 @@
+
+{
+  "scenario_name": "Lleida_30x30km",
+  "study_area_file": "data/study_area.geojson",
+  "input_file": "data/processed/real_antenna_sites.csv",
+  "output_directory": "results",
+  "projected_crs": "EPSG:25831",
+  "synthetic_rrh_count": 0,
+  "synthetic_inside_polygon": false,
+  "random_seed": 42,
+  "minimum_synthetic_separation_m": 250,
+  "deduplication_tolerance_m": 30,
+  "filter_to_4g_5g_when_known": true,
+  "pool_counts_to_test": [1, 2, 3, 4, 5, 8, 10]
+}

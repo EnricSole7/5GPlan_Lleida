@@ -1,0 +1,1105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.708577359285576,
+          41.48457822504995
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00001",
+        "latitude": 41.48457822504995,
+        "longitude": 0.708577359285576,
+        "x_m": 308699.815561839,
+        "y_m": 4595086.797667137,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5732985465612817,
+          41.54144412106574
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00002",
+        "latitude": 41.54144412106574,
+        "longitude": 0.5732985465612817,
+        "x_m": 297582.55372546334,
+        "y_m": 4601708.938112242,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7446040994678902,
+          41.671555353568486
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00003",
+        "latitude": 41.671555353568486,
+        "longitude": 0.7446040994678902,
+        "x_m": 312250.32870516286,
+        "y_m": 4615767.9682011595,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8024092225799586,
+          41.50234611563338
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00004",
+        "latitude": 41.50234611563338,
+        "longitude": 0.8024092225799586,
+        "x_m": 316584.0425949388,
+        "y_m": 4596856.155645396,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6278308753010694,
+          41.485951517682665
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00005",
+        "latitude": 41.485951517682665,
+        "longitude": 0.6278308753010694,
+        "x_m": 301962.38285673404,
+        "y_m": 4595421.122169029,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5523638408558181,
+          41.622394696349645
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00006",
+        "latitude": 41.622394696349645,
+        "longitude": 0.5523638408558181,
+        "x_m": 296091.199218471,
+        "y_m": 4610746.413438863,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4810479492963475,
+          41.53445119686491
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00007",
+        "latitude": 41.53445119686491,
+        "longitude": 0.4810479492963475,
+        "x_m": 289864.4482224507,
+        "y_m": 4601152.884955,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7124596502141127,
+          41.633752438530664
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00008",
+        "latitude": 41.633752438530664,
+        "longitude": 0.7124596502141127,
+        "x_m": 309462.87347307324,
+        "y_m": 4611641.184760743,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5530330550829179,
+          41.64646957148434
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00009",
+        "latitude": 41.64646957148434,
+        "longitude": 0.5530330550829179,
+        "x_m": 296222.8478916376,
+        "y_m": 4613417.9555580905,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.771689467078359,
+          41.47926691675344
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00010",
+        "latitude": 41.47926691675344,
+        "longitude": 0.771689467078359,
+        "x_m": 313953.8860544627,
+        "y_m": 4594359.344046072,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7703488444598399,
+          41.677706714109476
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00011",
+        "latitude": 41.677706714109476,
+        "longitude": 0.7703488444598399,
+        "x_m": 314411.25049344776,
+        "y_m": 4616395.16813563,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5975112448705185,
+          41.52201123565661
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00012",
+        "latitude": 41.52201123565661,
+        "longitude": 0.5975112448705185,
+        "x_m": 299542.3200278273,
+        "y_m": 4599494.7897902755,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.826552241555224,
+          41.57397526300372
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00013",
+        "latitude": 41.57397526300372,
+        "longitude": 0.826552241555224,
+        "x_m": 318799.3446327421,
+        "y_m": 4604758.155443539,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5056276832233686,
+          41.50515140756019
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00014",
+        "latitude": 41.50515140756019,
+        "longitude": 0.5056276832233686,
+        "x_m": 291821.15059762215,
+        "y_m": 4597840.131591881,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7858203016453226,
+          41.650618414509616
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00015",
+        "latitude": 41.650618414509616,
+        "longitude": 0.7858203016453226,
+        "x_m": 315621.81409660325,
+        "y_m": 4613354.27089555,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7708348051926183,
+          41.68677094123552
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00016",
+        "latitude": 41.68677094123552,
+        "longitude": 0.7708348051926183,
+        "x_m": 314477.75471331424,
+        "y_m": 4617400.545206541,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6702659018224996,
+          41.75660065433587
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00017",
+        "latitude": 41.75660065433587,
+        "longitude": 0.6702659018224996,
+        "x_m": 306317.3122513221,
+        "y_m": 4625375.610132483,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6117237339893589,
+          41.63578926798868
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00018",
+        "latitude": 41.63578926798868,
+        "longitude": 0.6117237339893589,
+        "x_m": 301077.9327106669,
+        "y_m": 4612094.9445271455,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7791046859904632,
+          41.65486290629767
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00019",
+        "latitude": 41.65486290629767,
+        "longitude": 0.7791046859904632,
+        "x_m": 315074.70821497845,
+        "y_m": 4613839.937433207,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7910965585499887,
+          41.64305143774742
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00020",
+        "latitude": 41.64305143774742,
+        "longitude": 0.7910965585499887,
+        "x_m": 316039.66626494104,
+        "y_m": 4612502.8190715,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7327617838334761,
+          41.49054989877418
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00021",
+        "latitude": 41.49054989877418,
+        "longitude": 0.7327617838334761,
+        "x_m": 310736.3816504602,
+        "y_m": 4595696.59279659,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5558016322035366,
+          41.56043114198108
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00022",
+        "latitude": 41.56043114198108,
+        "longitude": 0.5558016322035366,
+        "x_m": 296182.6710758827,
+        "y_m": 4603858.282012937,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5008186936716289,
+          41.54419277777099
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00023",
+        "latitude": 41.54419277777099,
+        "longitude": 0.5008186936716289,
+        "x_m": 291545.19449666934,
+        "y_m": 4602186.594885413,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5086924845390994,
+          41.55715622829419
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00024",
+        "latitude": 41.55715622829419,
+        "longitude": 0.5086924845390994,
+        "x_m": 292243.53044861485,
+        "y_m": 4603606.982730213,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.707188048821725,
+          41.582076970819045
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00025",
+        "latitude": 41.582076970819045,
+        "longitude": 0.707188048821725,
+        "x_m": 308871.2105000075,
+        "y_m": 4605915.226329045,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6086226164978272,
+          41.53751236694929
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00026",
+        "latitude": 41.53751236694929,
+        "longitude": 0.6086226164978272,
+        "x_m": 300517.1464730536,
+        "y_m": 4601190.177272144,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5703095114489666,
+          41.74613951590591
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00027",
+        "latitude": 41.74613951590591,
+        "longitude": 0.5703095114489666,
+        "x_m": 297974.04816610785,
+        "y_m": 4624444.053962145,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7117732084987127,
+          41.65216916492836
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00028",
+        "latitude": 41.65216916492836,
+        "longitude": 0.7117732084987127,
+        "x_m": 309459.9884669174,
+        "y_m": 4613687.556456183,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.53473020489645,
+          41.686597362880626
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00029",
+        "latitude": 41.686597362880626,
+        "longitude": 0.53473020489645,
+        "x_m": 294826.04931702605,
+        "y_m": 4617916.9742648965,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5318582372118169,
+          41.58627255615065
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00030",
+        "latitude": 41.58627255615065,
+        "longitude": 0.5318582372118169,
+        "x_m": 294267.99393080216,
+        "y_m": 4606784.353859335,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8385470997625637,
+          41.661025771976576
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00031",
+        "latitude": 41.661025771976576,
+        "longitude": 0.8385470997625637,
+        "x_m": 320041.69372254284,
+        "y_m": 4614398.333530098,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.677958601900571,
+          41.67382619191743
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00032",
+        "latitude": 41.67382619191743,
+        "longitude": 0.677958601900571,
+        "x_m": 306708.89246613206,
+        "y_m": 4616167.537127892,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7840968413069294,
+          41.700045808053666
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00033",
+        "latitude": 41.700045808053666,
+        "longitude": 0.7840968413069294,
+        "x_m": 315619.4873621205,
+        "y_m": 4618845.998284184,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5562284822465162,
+          41.48661228237028
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00034",
+        "latitude": 41.48661228237028,
+        "longitude": 0.5562284822465162,
+        "x_m": 295986.3765643283,
+        "y_m": 4595661.017599895,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5883054400145895,
+          41.55422033905449
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00035",
+        "latitude": 41.55422033905449,
+        "longitude": 0.5883054400145895,
+        "x_m": 298874.0342730334,
+        "y_m": 4603092.43441533,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5495219522070008,
+          41.74793418498122
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00036",
+        "latitude": 41.74793418498122,
+        "longitude": 0.5495219522070008,
+        "x_m": 296251.14430629264,
+        "y_m": 4624692.371842862,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7965392021938844,
+          41.567687115368685
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00037",
+        "latitude": 41.567687115368685,
+        "longitude": 0.7965392021938844,
+        "x_m": 316279.179737435,
+        "y_m": 4604123.435178375,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7145215999940482,
+          41.59091377175041
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00038",
+        "latitude": 41.59091377175041,
+        "longitude": 0.7145215999940482,
+        "x_m": 309508.5660212268,
+        "y_m": 4606880.169526125,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8107131204643321,
+          41.60905231614665
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00039",
+        "latitude": 41.60905231614665,
+        "longitude": 0.8107131204643321,
+        "x_m": 317577.59130293,
+        "y_m": 4608686.16474962,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.569530778422649,
+          41.54816266645772
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00040",
+        "latitude": 41.54816266645772,
+        "longitude": 0.569530778422649,
+        "x_m": 297289.25061714405,
+        "y_m": 4602463.753240935,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6795988838414991,
+          41.55278599068106
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00041",
+        "latitude": 41.55278599068106,
+        "longitude": 0.6795988838414991,
+        "x_m": 306483.78883696743,
+        "y_m": 4602724.490997367,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6882182738578295,
+          41.73499824527897
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00042",
+        "latitude": 41.73499824527897,
+        "longitude": 0.6882182738578295,
+        "x_m": 307745.40411088837,
+        "y_m": 4622936.717279483,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6194700691509316,
+          41.54032804054155
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00043",
+        "latitude": 41.54032804054155,
+        "longitude": 0.6194700691509316,
+        "x_m": 301430.6966790521,
+        "y_m": 4601477.8030027235,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8415223097369701,
+          41.623591406690885
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00044",
+        "latitude": 41.623591406690885,
+        "longitude": 0.8415223097369701,
+        "x_m": 320185.32305714395,
+        "y_m": 4610235.737752468,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5049459270455133,
+          41.4909205863419
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00045",
+        "latitude": 41.4909205863419,
+        "longitude": 0.5049459270455133,
+        "x_m": 291718.62668480596,
+        "y_m": 4596261.6960663125,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.511902854478537,
+          41.657423963235495
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00046",
+        "latitude": 41.657423963235495,
+        "longitude": 0.511902854478537,
+        "x_m": 292832.50313260267,
+        "y_m": 4614732.365825782,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7652480526996084,
+          41.59852498445357
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00047",
+        "latitude": 41.59852498445357,
+        "longitude": 0.7652480526996084,
+        "x_m": 313758.698933637,
+        "y_m": 4607614.477596789,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.49478075060110593,
+          41.586893388547644
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00048",
+        "latitude": 41.586893388547644,
+        "longitude": 0.49478075060110593,
+        "x_m": 291179.1656408775,
+        "y_m": 4606942.381376163,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8409965503209595,
+          41.62921144801939
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00049",
+        "latitude": 41.62921144801939,
+        "longitude": 0.8409965503209595,
+        "x_m": 320157.14821353555,
+        "y_m": 4610860.833330703,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8316995934332879,
+          41.72437012277025
+        ]
+      },
+      "properties": {
+        "rrh_id": "SYN_00050",
+        "latitude": 41.72437012277025,
+        "longitude": 0.8316995934332879,
+        "x_m": 319648.6736720603,
+        "y_m": 4621445.922187836,
+        "operator": "SYNTHETIC",
+        "technology": "5G",
+        "band": null,
+        "site_type": "synthetic",
+        "is_real": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "scenario_name": "Lleida_30x30km",
+  "projected_crs": "EPSG:25831",
+  "area_km2": 897.8232967808818,
+  "width_km": 31.733063596305787,
+  "height_km": 32.603721063517035,
+  "centroid_x_m": 304489.5050645731,
+  "centroid_y_m": 4610317.57858358
+}

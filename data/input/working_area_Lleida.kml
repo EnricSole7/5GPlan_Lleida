@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+
+    <Folder>
+        <name>working_area_900km2</name>
+
+        <Placemark id="working_area_lleida.1">
+            <Style>
+                <LineStyle>
+                    <color>ff0000ff</color>
+                </LineStyle>
+                <PolyStyle>
+                    <fill>0</fill>
+                </PolyStyle>
+            </Style>
+
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            0.4711967437598918,41.48571268540272,0
+                            0.8149480285051558,41.47740234650158,0
+                            0.8424364479733826,41.75147009575932,0
+                            0.4858935612899407,41.76431405646357,0
+                            0.4711967437598918,41.48571268540272,0
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+
+        </Placemark>
+    </Folder>
+
+</Document>
+</kml>
+

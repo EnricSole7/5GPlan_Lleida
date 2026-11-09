@@ -1,0 +1,26 @@
+
+{
+  "type": "FeatureCollection",
+  "name": "TotalSectorArea",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TotalSectorArea",
+        "description": "30x30Km sector area"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.4711967437598918, 41.48571268540272],
+            [0.8149480285051558, 41.47740234650158],
+            [0.8424364479733826, 41.75147009575932],
+            [0.4858935612899407, 41.76431405646357],
+            [0.4711967437598918, 41.48571268540272]
+          ]
+        ]
+      }
+    }
+  ]
+}
